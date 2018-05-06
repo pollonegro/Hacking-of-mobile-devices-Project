@@ -21,10 +21,12 @@ Why have I chosen android? (like attacker)
         - Portable
         - Fast loading
         - Considerable autonomy
+        - Can be hiding collecting information
+        - Can be remotely controlled by 4G networks.
       
      Cons:
         - Limited tools
-        - 
+        - For advanced functions, postproduction is necessary
 
 
 ### BODY

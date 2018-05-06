@@ -10,8 +10,7 @@ Now this is reversing...
 
 ### INTRODUCTION
    
-Why have I chosen android? (like victims)
-
+Why have I chosen android? (like victims):
 
 ![](https://github.com/pollonegro/Hacking-of-mobile-devices-Project/raw/master/img/grafica.png)
 

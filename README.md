@@ -22,9 +22,9 @@ Why have I chosen android?
 
  ### BIBLIOGRAPHY AND KNOWLEDGE BASE
 
-https://www.yeahhub.com/automated-mitm-attack-with-mitmap-python-script/
-http://www.movilexperto.com/mitmap-un-programa-todo-en-uno-para-realizar-ataques-man-in-the-middle/
-https://latesthackingnews.com/2017/01/08/mitmap-simple-tool-create-fake-ap-sniff-data/
-https://www.yeahhub.com/automated-mitm-attack-with-mitmap-python-script/
+      https://www.yeahhub.com/automated-mitm-attack-with-mitmap-python-script/
+      http://www.movilexperto.com/mitmap-un-programa-todo-en-uno-para-realizar-ataques-man-in-the-middle/
+      https://latesthackingnews.com/2017/01/08/mitmap-simple-tool-create-fake-ap-sniff-data/
+      https://www.yeahhub.com/automated-mitm-attack-with-mitmap-python-script/
 
 See WIKI for Instructions and more information!

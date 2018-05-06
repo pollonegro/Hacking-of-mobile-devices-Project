@@ -14,14 +14,15 @@ Why have I chosen android? (like victims)
 ![](https://github.com/pollonegro/Hacking-of-mobile-devices-Project/raw/master/img/grafica.png)
 
 Why have I chosen android? (like attacker)
-    Pros:
-       - Portable
-       - Fast loading
-       - Considerable autonomy
+
+     Pros:
+        - Portable
+        - Fast loading
+        - Considerable autonomy
       
-    Cons:
-       - Limited tools
-       - 
+     Cons:
+        - Limited tools
+        - 
 
 
 ### BODY

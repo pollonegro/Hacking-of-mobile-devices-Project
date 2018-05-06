@@ -8,7 +8,7 @@ Now this is reversing...
 
 Why have I chosen android?
 
-https://github.com/pollonegro/Hacking-of-mobile-devices-Project/raw/master/img/grafica.png
+![](https://github.com/pollonegro/Hacking-of-mobile-devices-Project/raw/master/img/grafica.png)
 
 
 

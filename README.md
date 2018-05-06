@@ -7,17 +7,31 @@ Smartphone attacks are a serious concern for businesses and individuals today. T
 
 Now this is reversing...
 
-Why have I chosen android?
-![](https://github.com/pollonegro/Hacking-of-mobile-devices-Project/raw/master/img/grafica.png)
-
 
 ### INTRODUCTION
    
+Why have I chosen android? (like victims)
+![](https://github.com/pollonegro/Hacking-of-mobile-devices-Project/raw/master/img/grafica.png)
+
+Why have I chosen android? (like attacker)
+   Pros:
+      - Portable 
+      - Fast loading
+      - Considerable autonomy
+      
+   Cons:
+      - Limited tools
+      - 
 
 
 ### BODY
 
-
+      
+      1 - Rubber Ducky / Badusb / arduino 
+      2 - Man In The Middle (MITM) SSL Proxy (Rogue AP)
+      3 - Phishing with captive portals (Evil Twin)
+      
+      4 - Kali Android pentesting device
 
 
  ### BIBLIOGRAPHY AND KNOWLEDGE BASE

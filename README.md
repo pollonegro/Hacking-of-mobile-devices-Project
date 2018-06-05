@@ -20,7 +20,7 @@ Ahora esto se está invirtiendo ...
 ¿Por qué elegí Android? (como atacante)
 
       Pros:
-         - Portátil
+         - Portátil
          - Carga rápida
          - Autonomía considerable
          - Puede estar ocultando la recopilación de información
@@ -45,5 +45,3 @@ Ahora esto se está invirtiendo ...
       https://www.yeahhub.com/automated-mitm-attack-with-mitmap-python-script/
       https://github.com/AhMyth/AhMyth-Android-RAT
       https://github.com/offensive-security/kali-nethunter
-
-

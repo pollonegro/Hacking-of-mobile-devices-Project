@@ -19,22 +19,17 @@ Ahora esto se está invirtiendo ...
 
 ¿Por qué elegí Android? (como atacante)
 
-    Pros:
+      Pros:
     
          - Portátil
-         
          - Carga rápida
-         
          - Autonomía considerable
-         
          - Puede estar ocultando la recopilación de información
-         
          - Puede ser controlado de forma remota por redes 4G.
       
       Contras:
       
          - Herramientas limitadas
-         
          - Para funciones avanzadas, la postproducción es necesaria
 
 

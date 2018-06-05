@@ -1,33 +1,41 @@
-# SECURITY IN ANDROID MOBILE DEVICES
+# SEGURIDAD EN DISPOSITIVOS MÓVILES ANDROIDES
 
 
 
 
-Smartphone attacks are a serious concern for businesses and individuals today. The early part of smartphone proliferation was relatively quiet in terms of cyberattacks. Back then, traditional desktop/laptop and server environments were far more attractive targets due to the sheer numbers of them deployed worldwide. 
+Los ataques de teléfonos inteligentes son una gran preocupación para las empresas y las personas de hoy. La primera parte de la proliferación de teléfonos inteligentes fue relativamente tranquila en términos de ataques cibernéticos. En aquel entonces, los entornos tradicionales de escritorio / ordenador portátil y servidor eran objetivos mucho más atractivos debido a la gran cantidad de ellos implementados en todo el mundo.
 
-Now this is reversing...
+
+Ahora esto se está invirtiendo ...
 
 
 
    
-Why have I chosen android? (like victims):
+¿Porqué elegí Android? (como las víctimas):
+
 
 ![](https://github.com/pollonegro/Hacking-of-mobile-devices-Project/raw/master/img/grafica.png)
 
 
-Why have I chosen android? (like attacker)
+¿Por qué elegí Android? (como atacante)
 
-     Pros:
-        - Portable
-        - Fast loading
-        - Considerable autonomy
-        - Can be hiding collecting information
-        - Can be remotely controlled by 4G networks.
+    Pros:
+    
+         - Portátil
+         
+         - Carga rápida
+         
+         - Autonomía considerable
+         
+         - Puede estar ocultando la recopilación de información
+         
+         - Puede ser controlado de forma remota por redes 4G.
+      
+      Contras:
       
-     Cons:
-        - Limited tools
-        - For advanced functions, postproduction is necessary
-
+         - Herramientas limitadas
+         
+         - Para funciones avanzadas, la postproducción es necesaria
 
 
 

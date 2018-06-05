@@ -25,22 +25,18 @@ Ahora esto se está invirtiendo ...
          - Autonomía considerable
          - Puede estar ocultando la recopilación de información
          - Puede ser controlado de forma remota por redes 4G.
-      
       Contras:
          - Herramientas limitadas
          - Para funciones avanzadas, la postproducción es necesaria
 
 
-
       
       1 - Rubber Ducky / Badusb / arduino 
       2 - Man In The Middle (MITM) SSL Proxy (Rogue AP)
-      3 - Phishing with captive portals (Evil Twin)
-      4 - Android Remote Administration Tool
-      
-      5 - Kali Android pentesting device
-
-
+      3 - Phishing con portales capacitivos (Evil Twin)
+      4 - Herramienta de administracion remota android
+     
+      5 - Kali en un dispositivo movil Android 
 
 
       https://www.yeahhub.com/automated-mitm-attack-with-mitmap-python-script/
@@ -50,4 +46,4 @@ Ahora esto se está invirtiendo ...
       https://github.com/AhMyth/AhMyth-Android-RAT
       https://github.com/offensive-security/kali-nethunter
 
-See WIKI for Instructions and more information!
+

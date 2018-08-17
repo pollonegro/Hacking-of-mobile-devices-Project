@@ -30,7 +30,7 @@ class Shodan:
             resultado = self.api.search(str(cadena))
             return resultado
         except Exception as e:
-            print 'Ha ocurrido un error: %s' % e
+            print('Ha ocurrido un error: %s' % e)
             resultado = []
             return resultado
 
